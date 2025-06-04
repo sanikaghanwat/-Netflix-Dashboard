@@ -26,10 +26,8 @@ Most content was added between   2018 and 2020  . This reveals Netflix’s bulk 
 ## 🛠 Tools & Skills Used
 •	Tableau for interactive dashboard creation
 •	Excel for quick filtering and formatting
-•	Python (if used, for date formatting or cleaning)
 •	Data cleaning (e.g., converting object to datetime)
 •	Visual design using bar charts, pie charts, maps, and filters
-•	Data storytelling to present meaningful insights
 ## 📚 Personal Learnings
 •	Gained confidence in using Tableau for real-world data
 •	Understood differences between Tableau and Power BI
